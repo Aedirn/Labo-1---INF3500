@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Failure: simulation terminée
+Time: 640 ns  Iteration: 0  Process: /multi_tb/line__49  File: D:/Vivado/project_2_testmulti/project_2_testmulti.srcs/sim_1/new/multi_tb.vhd
+$finish called at time : 640 ns : File "D:/Vivado/project_2_testmulti/project_2_testmulti.srcs/sim_1/new/multi_tb.vhd" Line 59
